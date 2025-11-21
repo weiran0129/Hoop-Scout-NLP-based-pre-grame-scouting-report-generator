@@ -23,17 +23,17 @@ Per-player dataset includes:
 
 * Shooting stats
 
-Advanced box scores
+* Advanced box scores
 
-Passing stats
+* Passing stats
 
-Dribble breakdown
+* Dribble breakdown
 
-Defensive tracking
+* Defensive tracking
 
-Player profile JSON
+* Player profile JSON
 
-Player portrait
+* Player portrait
 
 The system also supports team-level data, including roster CSVs and team logos.
 

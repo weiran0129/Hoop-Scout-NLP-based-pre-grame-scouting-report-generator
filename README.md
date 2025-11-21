@@ -6,12 +6,13 @@ It processes real NBA player statistics, identifies patterns, assigns badges, an
 This system was developed for ECE1786 — Creative Applications of Natural Language Processing, University of Toronto.
 
 # Example Generated Pre-Game Scouting Report
-<div style="text-align;">
+<div style="text-align:">
   <span style="font-size: 32px; font-weight: bold;">Pre-Game Scouting Report</span>
 </div>
-<div margin: 20px 0;>
-<img src="(https://drive.google.com/file/d/1yRtJeQX8iZCs8dv7m9KvJDYQWgp_v32I/view?usp=sharing)" alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
-</div>
+
+<img src="https://drive.google.com/uc?export=view&id=1yRtJeQX8iZCs8dv7m9KvJDYQWgp_v32I" 
+     alt="Portrait" width="520" height="380" 
+     style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
 
 <div margin: 20px 0;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Jumpshot.png" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">

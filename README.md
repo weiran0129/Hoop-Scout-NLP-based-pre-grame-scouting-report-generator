@@ -1,5 +1,3 @@
-# HoopScout
-
 # 🏀 HoopScout: LLM-Powered NBA Pre-Game Scouting Report Generator
 
 HoopScout is an automated pre-game scouting report generator built with a Large Language Model (LLM) multi-agent architecture.

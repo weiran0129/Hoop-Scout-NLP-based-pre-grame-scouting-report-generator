@@ -6,7 +6,7 @@ It processes real NBA player statistics, identifies patterns, assigns badges, an
 This system was developed for ECE1786 — Creative Applications of Natural Language Processing, University of Toronto.
 
 # Example Generated Pre-Game Scouting Report
-==============================================================================================================================================================================================================
+========================================================================================================================================================================
 <div style="text-align:">
   <span style="font-size: 32px; font-weight: bold;">Pre-Game Scouting Report</span>
 </div>
@@ -85,7 +85,7 @@ Austin Reaves provides scoring and playmaking for the Lakers as a guard. Recentl
   <li>Pressure on perimeter shooting to limit effectiveness.</li>
   <li>Force him to the free-throw line to exploit his weakness.</li>
 </ul>
-==============================================================================================================================================================================================================
+========================================================================================================================================================================
 
 # Features
 ## 🔹 Multi-Agent LLM Architecture

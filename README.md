@@ -7,7 +7,6 @@ This system was developed for ECE1786 — Creative Applications of Natural Langu
 
 # Features
 ## 🔹 Multi-Agent LLM Architecture
-
 HoopScout uses specialized LLM agents:
 
 Data-Analyzing Agent — Extracts patterns, strengths, weaknesses, and tendencies from raw data.
@@ -22,7 +21,7 @@ Team-Level Agent — Summaries team performance trends and produces high-level r
 
 Per-player dataset includes:
 
-Shooting stats
+* Shooting stats
 
 Advanced box scores
 

@@ -6,7 +6,7 @@ It processes real NBA player statistics, identifies patterns, assigns badges, an
 This system was developed for ECE1786 — Creative Applications of Natural Language Processing, University of Toronto.
 
 # Features
-🔹 Multi-Agent LLM Architecture
+## 🔹 Multi-Agent LLM Architecture
 
 HoopScout uses specialized LLM agents:
 
@@ -18,7 +18,7 @@ Report Generation Agent — Combines insights + badges into a structured scoutin
 
 Team-Level Agent — Summaries team performance trends and produces high-level reports.
 
-🔹 Real NBA Data Integration
+## 🔹 Real NBA Data Integration
 
 Per-player dataset includes:
 
@@ -38,7 +38,7 @@ Player portrait
 
 The system also supports team-level data, including roster CSVs and team logos.
 
-🔹 Gradio Web UI
+## 🔹 Gradio Web UI
 
 A clean, user-friendly interface for:
 

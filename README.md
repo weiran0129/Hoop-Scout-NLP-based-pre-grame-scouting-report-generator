@@ -1,13 +1,13 @@
 # HoopScout
 
-🏀 HoopScout: LLM-Powered NBA Pre-Game Scouting Report Generator
+# 🏀 HoopScout: LLM-Powered NBA Pre-Game Scouting Report Generator
 
 HoopScout is an automated pre-game scouting report generator built with a Large Language Model (LLM) multi-agent architecture.
 It processes real NBA player statistics, identifies patterns, assigns badges, and outputs structured, coach-friendly scouting reports to support strategic decision-making.
 
 This system was developed for ECE1786 — Creative Applications of Natural Language Processing, University of Toronto.
 
-🚀 Features
+# Features
 🔹 Multi-Agent LLM Architecture
 
 HoopScout uses specialized LLM agents:
@@ -50,7 +50,7 @@ Running analysis
 
 Viewing auto-generated reports
 
-🧠 System Architecture
+# 🧠 System Architecture
 
 The system follows a multi-agent workflow:
 
@@ -64,11 +64,8 @@ Report Agent produces final structured scouting report
 
 Output displayed in Gradio UI
 
-(See full architecture diagram in the Report — Fig. 1, page 2.) 
 
-Final Report
-
-📊 Quantitative Performance
+# 📊 Quantitative Performance
 
 Using a rubric including readability, badge accuracy, strategic depth, and structure:
 
@@ -80,25 +77,3 @@ Readability: Successfully achieved Flesch-Kincaid Grade 9–11
 
 Badge matching: Lower accuracy due to numerical reasoning limits of LLMs
 
-(See evaluation details on page 7.) 
-
-Final Report
-
-📝 Example Outputs
-🔹 Player-Level Scouting Report
-
-Includes:
-
-Profile + portrait
-
-Stats table
-
-Assigned badges
-
-Strengths / Weaknesses
-
-Offensive strategies
-
-Defensive strategies
-
-(See Appendix 1 for full sample report — page 12.) 
